@@ -15,3 +15,8 @@ The OSG forum may then approach the Public Body with information regarding the I
 The point of this Action is to create a situation whereby the Public Body is in a better position to fix the issue than to persist with diverting resources to the Freedom of Information Requests.
 
 A secondary result is the identification of key personnel within the public body that are neglectful, inefficient and / or corrupt.
+
+## Restrictions
+FOI request must be legitimate and not vexatious.
+FOI request must not be repeated.
+FOI request should be precise and limited to avoid attracting a large fee
