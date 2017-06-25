@@ -18,5 +18,7 @@ A secondary result is the identification of key personnel within the public body
 
 ## Restrictions
 FOI request must be legitimate and not vexatious.
+
 FOI request must not be repeated.
+
 FOI request should be precise and limited to avoid attracting a large fee
